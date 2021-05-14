@@ -1,0 +1,475 @@
+
+ db={
+     "tools": 
+        [
+            
+                {   
+                "name":"slack",
+                "type": [
+                    "Collaboration",
+                        ]
+                },
+
+                {
+                "name":"Wireshark",
+                "type": [
+                    "Network Monitoring",
+                        ]
+                },        
+
+                {
+                    "name":"DAEMON Tools Lite",
+                    "type": [
+                        "Emulator",
+                            ]
+                    },  
+                
+                {
+                "name" :"acrobat reader dc",
+                },
+
+                {
+                "name" :"audacity",
+                "type": [
+                    "Media editor",
+                        ]
+                },
+
+                {   
+                "name":"bitTorrent",
+                "type": [
+                    "torrent client",
+                        ]
+                },
+
+                {
+                "name":"cygwin",
+                "type": [
+                    "CLI",
+                        ]
+                },
+
+                {
+                "name":"dockertoolbox",
+                },
+
+                {
+                "name":"evernote",
+                "type": [
+                    "Text Editor",
+                        ]
+                },
+
+                {
+                "name":"gitbash",
+                "type": [
+                    "CLI",
+                        ]
+                },
+
+                {
+                "name":"figma",
+                },
+
+                {
+                "name":"fileZilla Client",
+                "type": [
+                    "FTP Client",
+                        ]
+                },
+
+                {
+                "name":"HTTrack Website Copier",
+                },
+
+                {
+                "name":"Inkscape",
+                "type": [
+                    "Graphics Editor",
+                        ]
+                },
+
+                {
+                "name":"IntelliJ IDEA Community Edition",
+                "type": [
+                    "IDE",
+                        ]
+                },
+
+                {
+                "name":"Kitematic",
+                },
+
+                {
+                "name":"Opera",
+                "type": [
+                    "browser",
+                        ]
+                },
+
+                {
+                "name":"Netbeans IDE",
+                "type": [
+                    "IDE",
+                        ]
+                },
+
+                {
+                "name":"Android Studio",
+                "type": [
+                    "IDE",
+                        ]
+                },
+
+                {
+                "name":"Xcode",
+                "type": [
+                    "IDE",
+                        ]
+                },
+
+                {
+                "name":"Node.js",
+                },
+
+                {
+                "name":"Notepad++",
+                "type": [
+                    "Text Editor",
+                        ]
+                },
+
+                {
+                "name":"OBS Studio",
+                "type": [
+                    "Video editor",
+                        ]
+                },
+
+                {
+                "name":"OpenVPN",
+                "type": [
+                    "VPN Client",
+                        ]
+                },
+
+                {
+                "name":"Oracle VM VirtualBox",
+                "type": [
+                    "Virtual Machine",
+                        ]
+                },
+
+                {
+                "name":"Putty",
+                "type": [
+                    "CLI",
+                        ]
+                },
+
+                {
+                "name":"Skype",
+                "type": [
+                    "Messenger",
+                        ]
+                },
+
+                {
+                "name":"Slack",
+                "type": [
+                    "Collaborative",
+                        ]
+                },
+
+                {
+                "name":"TeamViewer",
+                "type": [
+                    "Remote Control",
+                        ]
+                },
+
+                {
+                "name":"Viber",
+                "type": [
+                    "Messenger",
+                        ]
+                },
+
+                {
+                "name":"VisualStudioCode",
+                "type": [
+                    "IDE",
+                        ]
+                },
+
+                {
+                "name":"VLC media player",
+                "type": [
+                    "Media player",
+                        ]
+                },
+
+                {
+                "name":"VUE",
+                },
+
+                {
+                "name":"Wampserver64",
+                },
+
+                {
+                "name":"WeChat",
+                "type": [
+                    "Messenger",
+                        ]
+                },
+
+                {
+                "name":"WhatsApp",
+                "type": [
+                    "Messenger",
+                        ]
+                },
+
+                {
+                "name":"Telegram",
+                "type": [
+                    "Messenger",
+                        ]
+                },
+
+{
+                "name":"Signal",
+                "type": [
+                    "Messenger",
+                        ]
+                },
+
+                {
+                "name":"Winamp",
+                "type": [
+                    "Media Player",
+                        ]
+                },
+
+                {
+                "name":"Winrar",
+                "type": [
+                    "File Archiver",
+                        ]
+                },
+
+                {
+                "name":"Winscp",
+                "type": [
+                    "FTP Client",
+                        ]
+                },
+
+                {
+                "name":"Zeplin",
+                "type": [
+                    "UI/UX Design",
+                        ]
+                },
+
+                {
+                "name":"DockerToolbox",
+                },
+
+                {
+                "name":"Pycharm",
+                "type": [
+                    "IDE",
+                        ]
+                },
+
+                {
+                "name":"Gimp",
+                "type": [
+                    "Graphic Editor",
+                        ]
+                },
+
+                {
+                "name":"GitKraken",
+                },
+
+                {
+                "name":"TortoiseSVN",
+                "type": [
+                    "Subversion Client",
+                        ]
+                },
+
+                {
+                "name":"TortoiseGit",
+                "type": [
+                    "Git Client",
+                        ]
+                },
+
+                {
+                "name":"Neo4j commmunity",
+                },
+
+                {
+                "name":"7z",
+                "type": [
+                    "Archiver",
+                        ]
+                },
+
+                {
+                "name":"FSCapture",
+                },
+
+                {
+                "name":"Miscrosoft Edge",
+                "type": [
+                    "Browser",
+                        ]
+                },
+
+                {
+                "name":"ImageResizer",
+                "type": [
+                    "Graphics Editor",
+                        ]
+                },
+
+                {
+                "name":"DropBox",
+                "type": [
+                    "File hosting",
+                        ]
+                },
+
+                {
+                "name":"Trello",
+                "type": [
+                    "Collaboration",
+                        ]
+                },
+
+                {
+                "name":"Scrcpy",
+                },
+
+                {
+                "name":"mrmemoryscanner",
+                },
+
+                {
+                "name":"Keepass",
+                "type": [
+                    "Password Manager",
+                        ]
+                },
+
+                {
+                "name":"Zoom",
+                "type": [
+                    "Video meeting",
+                        ]
+                },
+
+                {
+                "name":"Jitsi",
+                "type": [
+                    "Video meeting",
+                        ]
+                },
+
+                {
+                "name":"Teams",
+                "type": [
+                    "Video meeting",
+                        ]
+                },
+
+                {
+                "name":"cmake",
+                },
+
+                {
+                "name":"rkfree",
+                "type": [
+                    "Keylogger",
+                        ]
+                },
+
+                {
+                "name":"VUE",
+                },
+
+                {
+                "name":"Firefox",
+                "type": [
+                    "browser",
+                        ]
+                },
+
+                {
+                "name":"Thunderbird",
+                "type": [
+                    "Email Client",
+                        ]
+                },
+
+                {
+                "name":"My Mail",
+                "type": [
+                    "Email Client",
+                        ]
+                },
+
+                {
+                "name":"Outlook",
+                "type": [
+                    "Email Client",
+                        ]
+                },
+
+                                {
+                "name":"Gmail",
+                "type": [
+                    "Email Client",
+                        ]
+                },
+  
+                
+                {
+                "name":"Safari",
+                "type": [
+                    "browser",
+                        ]
+                },
+
+                {
+                "name":"Chromium",
+                "type": [
+                    "browser",
+                        ]
+                },
+
+                {
+                "name":"Tor",
+                "type": [
+                    "browser",
+                        ]
+                },             
+
+                {
+                "name":"Chrome",
+                "type": [
+                    "browser",
+                        ]
+                }
+        ]
+    }        
+
+
+
+
+
