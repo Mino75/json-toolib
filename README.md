@@ -1,10 +1,10 @@
 # json-toolib
-this is a simple tools library stored in a single json file 
+Json-toolib is a personal simple tools library stored in a single json file 
 Notice : the json format can be converted into Bson for MongoDB Database
 
 ## Testing some requests
 The data can be requested as a mongoDB bson data
-Requests can be tested here : https://mongoplayground.net
+Requests with the online tool here : https://mongoplayground.net
 
 ## Request Example
 
